@@ -1,0 +1,47 @@
+@import '../../public/var.scss';
+@import "~antd/dist/antd.css";
+.sc-carousel {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: #fff;
+
+  .m-bd {
+    // 主色调
+    .ant-carousel .slick-dots li button {
+      background: var(--clr-zhu4);
+      height: 4px;
+      width: 15px;
+      z-index: 1;
+    }
+
+
+    img {
+      // margin: 0 auto;
+      display: flex;
+      width: 100%;
+      object-fit: cover;
+      // height: 100%;
+      height: calc(42vw);
+    }
+
+    // 底部距离
+    .ant-carousel .slick-dots-bottom {
+      bottom: 5px;
+    }
+  }
+}
+
+@media screen and (max-width: $screen) {
+
+  .sc-list-price {
+    .m-item {
+      width: 100%;
+
+      &+.m-item {
+        margin: 0!important;
+      }
+    }
+
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "homePage":{
+      "navigation":["COURSES","TREATMENT","COSMETOLOGY","PROCEDURE"],
+      "bottom":{
+        "title":"EN.COM",
+        "msg":"If you have any questions or requests for medical products or services, please click the button to contact us.",
+        "address":"Beijing ICP 15039566",
+        "contact":"Contact Us",
+        "wxImg":"http://43.143.111.217:8008/31.png",
+        "wxplatformImg":"http://43.143.111.217:8008/32.png",
+        "person":"Linkman",
+        "tel":"Telephone",
+        "email":"Email",
+        "wx":"WeChat",
+        "wxPublic":"WeChat Official Account"
+      },
+        "language":["CH","EN","JP"],
+        "timeLine": [
+          {
+            "content": "1.Decide on the hospital and the package",
+            "img": "http://43.143.111.217:8008/11.jpg"
+          },
+          {
+            "content": "2.Determination of Visa (Individual tourist visa or Medical Residence Visa)",
+            "img": "http://43.143.111.217:8008/12.jpg"
+          },
+          {
+            "content": "3.Sign a contract",
+            "img": "http://43.143.111.217:8008/13.jpg"
+          },
+          {
+            "content": "4.Bear the cost",
+            "img": "http://43.143.111.217:8008/14.jpg"
+          },
+          {
+            "content": " 5.Go to Japan",
+            "img": "http://43.143.111.217:8008/15.jpg"
+          },
+          {
+            "content": "6.Meet or be met by a medical interpreter at the hospital",
+            "img": "http://43.143.111.217:8008/16.jpg"
+          },
+          {
+            "content": "7.Physical examination began",
+            "img": "http://43.143.111.217:8008/17.jpg"
+          },
+          {
+            "content": "8.The medical examination report will be translated and handed to the guest",
+            "img": "http://43.143.111.217:8008/18.jpg"
+          }
+        ],
+        "partner": {
+          "title": "List of Partners",
+          "list": [
+            {
+              "img": "http://43.143.111.217:8008/21.jpg",
+              "title": "Japan Waiyuan East Medical Examination Center",
+              "cnt": "Japan's most advanced cancer screening institution, using the unique cancer screening technology can detect and exclude a variety of early stage cancers, to ensure that you are not cancer and serious disease risk in the future.",
+              "link": "/Article"
+            },
+            {
+              "img": "http://43.143.111.217:8008/22.jpg",
+              "title": "Particle Line Cancer Treatment Center",
+              "cnt": "At present, cancer is still one of the major factors affecting health, and human beings are constantly fighting against it with the power of scientific and technological progress. Hitachi Particle Line cancer treatment system as a cancer treatment 'killer card', footprints all over the world.",
+              "link": "/Article"
+            }
+          ],
+          "line": true,
+          "btn": true
+        }
+  },
+  
+  "dataImg1":{
+    "list": [
+      {
+        "img": "http://43.143.111.217:8008/1.jpg",
+        "title": "Physical Examination",
+        "url": "/Article",
+        "list": [
+          "A comprehensive cancer package",
+          "Detect health risks earlier",
+          "Using the world's leading Japanese physical examination diagnostic equipment and technology",
+          "Considerate service, let you feel the unique Japanese physical examination culture"
+        ]
+      }
+    ],
+    "line": true,
+    "id": true
+  },
+  "dataImg2":{
+    "list": [
+      {
+        "img": "http://43.143.111.217:8008/2.jpg",
+        "title": "Medical Projects",
+        "url": "/Article",
+        "list": [
+          "Heavy ion technology",
+          "Cancer gene testing and the latest gene therapy",
+          "To relieve and cure incurable diseases in China",
+          "Personalized diagnosis and treatment mode enables patients to have a more humanized medical experience"
+        ]
+      }
+    ],
+    "line": true,
+    "id": true
+  },
+  "dataImg3":{
+    "list": [
+      {
+        "img": "http://43.143.111.217:8008/3.jpg",
+        "title": "Medical Aesthetics",
+        "url": "/Article",
+        "list": [
+          "Put forward the latest anti-aging nursing medical program",
+          "Provide medical services that fully consider patients' feelings",
+          "Use highly safe medical equipment and medicines",
+          "Japanese famous doctor for you personally operated, to solve all the troubles"
+        ]
+      }
+    ],
+    "line": true,
+    "id": true
+  }
+}
